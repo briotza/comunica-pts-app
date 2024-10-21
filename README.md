@@ -1,4 +1,4 @@
-## App Mobile - ComunicaPTS
+## App Mobile - ComunicaPTS [PROTÓTIPO FRONTEND]
 Ferramenta desenvolvida por Ciano Meliunas da Silva destinada ao Parque Tecnológico de Sorocaba.
 
 ### Introdução
