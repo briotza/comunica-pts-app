@@ -1,5 +1,5 @@
 ## App Mobile - ComunicaPTS [PROTÓTIPO FRONTEND]
-Ferramenta desenvolvida por Ciano Meliunas da Silva destinada ao Parque Tecnológico de Sorocaba.
+Ferramenta desenvolvida por Ciano Meliunas destinada ao Parque Tecnológico de Sorocaba.
 
 ### Introdução
 O sistema ComunicaPTS será uma aplicação mobile responsável pela comunicação de todo o ecossistema do Parque Tecnológico de Sorocaba, onde o residente poderá cadastrar os dados de sua empresa e usar essa ferramenta para abrir chamados para os departamentos administrativos (TI, Operações e Financeiro) do Parque, podendo acompanhar a situação e histórico de chamados. 
