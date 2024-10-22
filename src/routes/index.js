@@ -62,7 +62,7 @@ const Stack = createNativeStackNavigator();
 
 export default function Routes() {
   // Simula o tipo de usuário (pode ser removido quando usar o AuthContext)
-  const userType = 'admin';
+  const userType = 'residente';
 
   let userRoutes;
 

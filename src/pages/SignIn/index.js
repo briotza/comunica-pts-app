@@ -32,7 +32,7 @@ export default function SignIn() {
         />
 
         <TouchableOpacity style={styles.button}
-          onPress={() => navigation.navigate('MenuAdmin')}>
+          onPress={() => navigation.navigate('MenuResidente')}>
           <Text style={styles.buttonText}>Entrar</Text>
         </TouchableOpacity>
 
